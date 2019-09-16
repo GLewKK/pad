@@ -1,0 +1,14 @@
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\Client.dll
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\MessageChannel.dll
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\MessageChannel.pdb
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.dll
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.pdb
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\Client.deps.json
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+C:\Users\glewk\source\repos\PADLab1\PADLab1\bin\Debug\netcoreapp2.2\Client.pdb
+C:\Users\glewk\source\repos\PADLab1\PADLab1\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete

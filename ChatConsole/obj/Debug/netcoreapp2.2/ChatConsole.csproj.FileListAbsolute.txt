@@ -1,0 +1,14 @@
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\ChatConsole.deps.json
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\ChatConsole.runtimeconfig.json
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\ChatConsole.runtimeconfig.dev.json
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\ChatConsole.dll
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\ChatConsole.pdb
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.csproj.CoreCompileInputs.cache
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.AssemblyInfoInputs.cache
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.AssemblyInfo.cs
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.dll
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.pdb
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.csprojAssemblyReference.cache
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\MessageChannel.dll
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\bin\Debug\netcoreapp2.2\MessageChannel.pdb
+C:\Users\glewk\source\repos\PADLab1\ChatConsole\obj\Debug\netcoreapp2.2\ChatConsole.csproj.CopyComplete

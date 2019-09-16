@@ -1,0 +1,9 @@
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\bin\Debug\netstandard2.0\MessageChannel.deps.json
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\bin\Debug\netstandard2.0\MessageChannel.dll
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\bin\Debug\netstandard2.0\MessageChannel.pdb
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\obj\Debug\netstandard2.0\MessageChannel.csprojAssemblyReference.cache
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\obj\Debug\netstandard2.0\MessageChannel.csproj.CoreCompileInputs.cache
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\obj\Debug\netstandard2.0\MessageChannel.AssemblyInfoInputs.cache
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\obj\Debug\netstandard2.0\MessageChannel.AssemblyInfo.cs
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\obj\Debug\netstandard2.0\MessageChannel.dll
+C:\Users\glewk\source\repos\PADLab1\MessageChannel\obj\Debug\netstandard2.0\MessageChannel.pdb
